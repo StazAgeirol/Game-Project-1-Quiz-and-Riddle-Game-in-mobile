@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 6aebfaa17e34bc547ab0d2542e2160b0
+  - enabled: 1
+    path: Assets/Scenes/Riddle Game/LevelsRiddle.unity
+    guid: a133e72471e70c94abb6aa26de0ff681
+  - enabled: 1
+    path: Assets/Scenes/Categories.unity
+    guid: 32af9eda444c4644f9efd3bdacacae7a
+  - enabled: 1
+    path: Assets/Scenes/Riddle Game/GameplayLevel1.unity
+    guid: b6618f9388f863e4bb22fbf2a3437998
+  - enabled: 1
+    path: Assets/Scenes/Riddle Game/GameplayLevel2.unity
+    guid: 02bf098d3bc7ba54bafe273d812ee1a7
+  - enabled: 1
+    path: Assets/Scenes/Riddle Game/GameplayLevel3.unity
+    guid: 3af1cb59e3d8eb048992e2f93388c9eb
+  - enabled: 1
+    path: Assets/Scenes/Riddle Game/GameplayLevel4.unity
+    guid: 4479dd0bc9db4a948b59c31ef1b13d1a
+  - enabled: 1
+    path: Assets/Scenes/Riddle Game/GameplayLevel5.unity
+    guid: 943c4dbe911bcc34d801c39e5b1d5496
+  - enabled: 1
+    path: Assets/Scenes/Riddle Game/GameplayLevel6.unity
+    guid: 9923448caf832f24ebb99ec54d8c96d9
+  - enabled: 1
+    path: Assets/Scenes/Riddle Game/GameplayLevel7.unity
+    guid: 5a7fd93ac6a97ec429bd720c77dd2e2d
+  - enabled: 1
+    path: Assets/Scenes/Riddle Game/GameplayLevel8.unity
+    guid: e89cb730f44eed14c86888070d6a4aac
+  - enabled: 1
+    path: Assets/Scenes/Riddle Game/GameplayLevel9.unity
+    guid: 94ba678fd463a8e42945bb235a62d7ce
+  - enabled: 1
+    path: Assets/Scenes/Memory Game/LevelsMG.unity
+    guid: d3461c732b1c46144972c012b40e1db2
+  - enabled: 1
+    path: Assets/Scenes/Memory Game/MemoryGame1.unity
+    guid: 7c7cf043628ea7e43aca51e841073dee
+  - enabled: 1
+    path: Assets/Scenes/Memory Game/MemoryGame2.unity
+    guid: f58743d06d4672040b5fb68b029ce44e
+  - enabled: 1
+    path: Assets/Scenes/Memory Game/MemoryGame3.unity
+    guid: 9a8622a9c860a3b48a75063d7fec9b71
+  - enabled: 1
+    path: Assets/Scenes/Memory Game/MemoryGame4.unity
+    guid: facadc2e683c40e41a3c928d6fe01dc1
+  - enabled: 1
+    path: Assets/Scenes/Memory Game/MemoryGame5.unity
+    guid: ae191bb675514ac45938834ebf94dd73
+  - enabled: 1
+    path: Assets/Scenes/Memory Game/MemoryGame6.unity
+    guid: dfa61a7c429d9644f8a6873ac81576f0
+  - enabled: 1
+    path: Assets/Scenes/Memory Game/MemoryGame7.unity
+    guid: f1f5661c792c5a146adfb09fa7ace698
+  - enabled: 1
+    path: Assets/Scenes/Memory Game/MemoryGame8.unity
+    guid: 7e784f59cd8e46547a21ac02a8695132
+  - enabled: 1
+    path: Assets/Scenes/Memory Game/MemoryGame9.unity
+    guid: 38c5c1f942f54cc48bc1d3b62fe0e28c
+  m_configObjects: {}

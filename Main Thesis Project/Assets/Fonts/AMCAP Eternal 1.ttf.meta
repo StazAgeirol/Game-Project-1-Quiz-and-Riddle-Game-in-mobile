@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d7b2fb312169a6047af41150217430bb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AMCAP Eternal
+  fontNames:
+  - AMCAP Eternal
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: db8a02284af8aa7438a6aed82bde1ef4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
